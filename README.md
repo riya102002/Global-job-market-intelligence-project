@@ -37,7 +37,38 @@ This project analyzes job market data to uncover meaningful insights such as:
 - Jupyter Notebook
 
 ---
+# 🧹 Data Preparation
 
+Before performing analysis, the datasets required several preprocessing steps to ensure data consistency and usability.
+
+One of the key steps in this project was **merging two different datasets** to create a unified dataset for analysis and modeling.
+
+### Dataset Integration
+
+Two job market datasets were combined to build a more comprehensive dataset containing:
+
+- Job roles
+- Salary information
+- Experience levels
+- Company size
+- Work location
+- Remote work ratio
+
+The datasets were merged using **common fields such as job role and company-related attributes** to ensure accurate alignment of records.
+
+### Data Cleaning Steps
+
+After merging the datasets, several preprocessing steps were performed:
+
+- Handling missing values
+- Removing duplicate records
+- Standardizing categorical variables
+- Converting salary values to a consistent format
+- Creating a cleaned dataset for analysis
+
+The final cleaned dataset was stored in: job_market_dataset.csv
+
+---
 
 # 📊 Dashboard
 
