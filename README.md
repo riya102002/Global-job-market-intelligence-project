@@ -50,7 +50,9 @@ The **Power BI dashboard** provides interactive insights into the global job mar
 - Highest paying job roles
 
 To explore the dashboard, open the `.pbix` file using **Power BI Desktop**.
-![Dashboard](dashboard/global_job_market_dashboard.png)
+
+
+![Dashboard](job-market-intelligence-project/dashboard/global_job_market_dashboard.png)
 
 
 ---
