@@ -1,6 +1,3 @@
-# Global-job-market-intelligence-project
-End-to-end data analytics project analyzing global job market trends using SQL, Python, Power BI and Machine Learning.
-
 # 🌍 Global Job Market Intelligence
 
 An **end-to-end data analytics project** analyzing global job market trends using **SQL, Python, Power BI, and Machine Learning**.
@@ -83,6 +80,8 @@ The **Power BI dashboard** provides interactive insights into the global job mar
 - Highest paying job roles
 
 To explore the dashboard, open the `.pbix` file using **Power BI Desktop**.
+![Dashboard](dashboard/global_job_market_dashboard.png)
+
 
 ---
 
