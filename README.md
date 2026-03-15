@@ -57,6 +57,7 @@ To explore the dashboard, open the `.pbix` file using **Power BI Desktop**.
 
 ---
 
+
 # 🔎 Key Insights
 
 - **35K+ global job postings** were analyzed, highlighting the strong demand for **data professionals across the global job market**.
@@ -121,10 +122,6 @@ Navigate to the project directory:
 
 cd Global-job-market-intelligence-project
 
-Install dependencies:
-
-pip install -r requirements.txt
-
 ---
 
 # 🚀 How to Run the Project
@@ -144,6 +141,20 @@ pip install -r requirements.txt
 dashboard/Global Data Job Market Intelligence Dashboard.pbix
 
 ---
+
+# 📦 Requirements
+
+To run this project, install the following Python libraries:
+
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
+jupyter  
+
+---
+
 
 # ⚠️ Challenges Faced
 
