@@ -38,36 +38,6 @@ This project analyzes job market data to uncover meaningful insights such as:
 
 ---
 
-# 📂 Project Structure
-
-Global-job-market-intelligence-project
-│
-├── data
-│   ├── raw
-│   │   └── job_market_data.csv
-│   └── processed
-│       └── cleaned_job_market_data.csv
-│
-├── notebooks
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_sql_analysis.ipynb
-│   └── 05_machine_learning.ipynb
-│
-├── sql
-│   └── analysis_queries.sql
-│
-├── dashboard
-│   └── Global Data Job Market Intelligence Dashboard.pbix
-│
-├── models
-│
-├── create_sqlite_db.py
-├── job_market.db
-└── README.md
-
----
 
 # 📊 Dashboard
 
